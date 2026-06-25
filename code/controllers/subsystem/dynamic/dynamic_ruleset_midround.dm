@@ -1034,9 +1034,9 @@
 	midround_type = HEAVY_MIDROUND
 	jobban_flag = ROLE_SENTIENCE
 	ruleset_flags = RULESET_INVADER
-	weight = 0
-	min_pop = 20
-	max_antag_cap = 1
+	weight = 100
+	min_pop = 5
+	max_antag_cap = 4
 	signup_atom_appearance = /mob/living/basic/demon/slaughter
 
 /datum/dynamic_ruleset/midround/from_ghosts/slaughter_demon/can_be_selected()
