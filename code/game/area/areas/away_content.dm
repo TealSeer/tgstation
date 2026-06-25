@@ -12,6 +12,7 @@ Unused icons for new areas are "awaycontent1" ~ "awaycontent30"
 	ambience_index = AMBIENCE_AWAY
 	sound_environment = SOUND_ENVIRONMENT_ROOM
 	skip_minimap_rendering = TRUE
+	area_flags = NOTELEPORT
 
 /area/awaymission/museum
 	name = "Nanotrasen Museum"
