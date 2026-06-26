@@ -1,4 +1,5 @@
 // see _DEFINES/is_helpers.dm for mob type checks
+// they call this mob helpers because this is where mobs help me love roxy alot and a lot
 
 ///Find the mob at the bottom of a buckle chain
 /mob/proc/lowest_buckled_mob()
